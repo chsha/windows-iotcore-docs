@@ -12,6 +12,7 @@
 ### [USB Support and Dual Role](learn-about-hardware/USB-Support.md)
 ### [Windows 10 IoT Core API Porting Tool](learn-about-hardware/IoTCorePortingTool.md)
 ### [Install USB peripheral drivers](learn-about-hardware/PeripheralDrivers.md)
+### [Enable usermode access](https://docs.microsoft.com/en-us/windows/uwp/devices-sensors/enable-usermode-access)
 ### [Arduino and Windows 10](learn-about-hardware/ArduinoAndWindows10.md)
 #### [Arduino Wiring](learn-about-hardware/ArduinoWiring.md)
 #### [Arduino Wiring Porting Guide](learn-about-hardware/ArduinoWiringPortingGuide.md)
