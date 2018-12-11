@@ -1,0 +1,21 @@
+---
+title: Windows IoT on NXP SoC
+author: chsha 
+ms.author: chsha 
+ms.date: 12/11/2018 
+ms.topic: article 
+description: Learn about getting started with Windows 10 IoT Core on NXP SoCs.
+keywords: Windows 10 IoT Core, Get Started, NXP, i.MX 
+---
+
+# Windows 10 IoT Core on i.MX Hardware
+
+In 2018, Microsoft and NXP announced a private preview of Windows 10 IoT Core on NXP i.MX6 and i.MX7 silicon. Hundreds of commercial developers, researchers, and Makers expressed their interest in the combination of 10 years of Windows security updates and the flexibility and reliability of NXP silicon.
+
+During the preview, Microsoft and NXP engineers spent thousands of hours tuning and improving the BSP based on input from private preview participants evaluating the solution. We worked with customers interested in modernizing legacy industrial controllers, developing new cloud connected building automation solutions, and gateways with class leading security such as [trusted I/O](https://az835927.vo.msecnd.net/sites/iot/Resources/documents/Protecting-Critical-Infrastructure.pdf).
+ 
+Based on the overwhelming interest in the solution, Microsoft and NXP have graduated the i.MX6 and i.MX7 BSP to a non-commercial public preview. Because of the long history Microsoft and NXP have in the embedded and IoT markets, we understand the need for design flexibility. Therefore, in addition to the multiple single board computers and system on module solutions Microsoft, NXP, and our hardware partners have enabled, the i.MX 6 and i.MX 7 BSP is provided under open source licensing. Now, everyone will be able to access the complete BSP content for the i.MX6 and i.MX7 product families for evaluation use on their hardware along with the October 2018 release of Windows 10 IoT Core.
+
+# BSP Contents
+
+# Ecosystem Resources
